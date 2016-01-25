@@ -1,0 +1,29 @@
+{
+	"results":[
+	{
+		"profile_image_url":"http://a1.twimg.com/profile_images/799776801/img_normal.png",
+		"created_at":"Tue, 20 Jul 2010 09:13:57 +0000",
+		"from_user":"sadbourn3",
+		"metadata":{"result_type":"recent"},
+		"to_user_id":null,
+		"text":"RAdded",
+		"id":18980327519,
+		"from_user_id":86651830,
+		"geo":null,
+		"iso_language_code":"en",
+		"source":"&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Tweetie for Mac&lt;/a&gt;"
+	},
+	{
+		"profile_image_url":"http://a1.twimg.com/profile_images/799776801/img_normal.png",
+		"created_at":"Tue, 20 Jul 2010 09:13:57 +0000",
+		"from_user":"radbourn3",
+		"metadata":{"result_type":"recent"},
+		"to_user_id":null,
+		"text":"CCCCCAdded 2",
+		"id":18980327519,
+		"from_user_id":86651830,
+		"geo":null,
+		"iso_language_code":"en",
+		"source":"&lt;a href=&quot;http://twitter.com&quot; rel=&quot;nofollow&quot;&gt;Tweetie for Mac&lt;/a&gt;"
+	}
+	],"max_id":18980327518,"since_id":0,"refresh_url":"?since_id=18980327518&q=milkfloat","results_per_page":15,"page":1,"completed_in":0.053277,"query":"milkfloat"}
